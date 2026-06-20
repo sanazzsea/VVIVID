@@ -9,7 +9,7 @@ Full-featured online store.
 - Order agement
 - Inventory
 
-## Tech Stack
+## Tech Sta
 - Node.js
 - Express
 - MongoDB
