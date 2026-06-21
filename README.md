@@ -7,7 +7,7 @@ Full-featured online store.
 - Shopping cart
 - Payment gateway
 - Order agement
-- Inventory
+- Inventorybnnfh
 
 ## Tech Sta
 - Node.js
