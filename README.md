@@ -6,7 +6,7 @@ Full-featured online store.
 - Product catalog
 - Shopping cart
 - Payment gateway
-- Order agement
+- Ordegement
 - Inveybnnfh
 
 ## Tech Sta
