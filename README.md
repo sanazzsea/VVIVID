@@ -1,5 +1,4 @@
-# E-commerce Store
-
+# E-c
 Full-featured online store.
 
 ## Features
@@ -14,6 +13,5 @@ Full-featured online store.
 - Express
 - MongoDB
 - Stripe
-
 ## License
 MIT
