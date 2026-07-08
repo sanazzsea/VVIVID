@@ -4,7 +4,7 @@ Full-featured online store.
 ## Features
 - Product catalog
 - Shopping cart
-- Payment gateway
+- Paymengateway
 - Ordegement
 - Inveybnnfh
 
