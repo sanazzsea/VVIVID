@@ -3,8 +3,7 @@ Full-featured online store.
 
 ## Features
 - Product catalog
-- Shopping cartZZ
-- Paymengateway
+- Shopping cary
 - Ordegement
 - Inveybnnfh
 
