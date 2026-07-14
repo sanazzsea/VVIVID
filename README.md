@@ -5,7 +5,7 @@ Full-featured online store.
 - Product catalog
 - Shopping cary
 - Ordegement
-- Inveybnnfh
+- Inveybn
 
 ## Tech Sta
 - Node.js
