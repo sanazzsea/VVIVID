@@ -2,7 +2,7 @@
 Full-featured online store.
 
 ## Features
-- Product catalog
+- Producttalog
 - Shopping cary
 - Ordegement
 - Inveybn
