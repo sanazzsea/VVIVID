@@ -9,7 +9,7 @@ Full-featured online store.
 
 ## Tech Sta
 - Node.js
-- Express
+- Ex
 - MongoDB
 - Stripe
 ## License
