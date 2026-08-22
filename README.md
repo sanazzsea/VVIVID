@@ -4,7 +4,7 @@ Full-featured online store.
 ## Features
 - Producttalog
 - Shopping cary
-- Ordegement
+- Ordeent
 - Inveybn
 
 ## Tech Sta
