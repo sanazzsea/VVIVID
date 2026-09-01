@@ -10,7 +10,7 @@ Full-featured online store.
 ## Tech Sta
 - Node.js
   
-- MongoDB
+- MoDB
 - Stripe
 ## License
 MIT
