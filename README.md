@@ -7,7 +7,7 @@ Full-featured online store.
 - Ordeent
 - Inveybn
 
-## Tech Sta
+## ch Sta
 - Node.js
   
 - MoDB
