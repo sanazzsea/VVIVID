@@ -2,7 +2,7 @@
 Full-featured online store.
 
 ## Features
-- Producttalog
+ucttalog
 - Spping cary
 - Ordeent
 - Inveybn
